@@ -1,0 +1,10 @@
+C:\Users\Popal\source\repos\DatabaseForm\DatabaseForm\bin\Debug\DatabaseForm.exe.config
+C:\Users\Popal\source\repos\DatabaseForm\DatabaseForm\bin\Debug\DatabaseForm.exe
+C:\Users\Popal\source\repos\DatabaseForm\DatabaseForm\bin\Debug\DatabaseForm.pdb
+C:\Users\Popal\source\repos\DatabaseForm\DatabaseForm\obj\Debug\DatabaseForm.csprojAssemblyReference.cache
+C:\Users\Popal\source\repos\DatabaseForm\DatabaseForm\obj\Debug\DatabaseForm.Form1.resources
+C:\Users\Popal\source\repos\DatabaseForm\DatabaseForm\obj\Debug\DatabaseForm.Properties.Resources.resources
+C:\Users\Popal\source\repos\DatabaseForm\DatabaseForm\obj\Debug\DatabaseForm.csproj.GenerateResource.cache
+C:\Users\Popal\source\repos\DatabaseForm\DatabaseForm\obj\Debug\DatabaseForm.csproj.CoreCompileInputs.cache
+C:\Users\Popal\source\repos\DatabaseForm\DatabaseForm\obj\Debug\DatabaseForm.exe
+C:\Users\Popal\source\repos\DatabaseForm\DatabaseForm\obj\Debug\DatabaseForm.pdb
